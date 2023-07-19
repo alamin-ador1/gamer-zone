@@ -48,14 +48,16 @@ height: 40px;
 border-radius: 8px;
 background: rgba(11, 2, 35, 0.10);
 border: none;
+display: flex;
+justify-content: center;
+align-items: center;
+padding-right: 10px;
 }
-/* .nav-content img{
-    display: flex;
-} */
-/* .logo{
-width: 33.916px;
-height: 24px;
-} */
+.logo img{
+width: 30px;
+height: 20px;
+padding-left: 10px;
+}
 
 
 /* banner section */
@@ -216,8 +218,8 @@ line-height: 20px;
 display:flex ;
 justify-content: center;
 flex-wrap: wrap;
-width: 100%;
-
+margin-bottom: 10rem;
+width: 1400px;
 min-height: 80px;
 background: linear-gradient(90deg, rgba(255, 66, 165, 0.03) 0%, rgba(255, 66, 165, 0.03) 100%);
 
