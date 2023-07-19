@@ -82,7 +82,9 @@
 
             .game-list-container{
                 width: 500px;
-                margin-right: 5rem;
+                margin: 0 auto;
+                /* min-height: 70px; */
+                /* margin-right: 5rem; */
 
 
             }
